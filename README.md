@@ -1,23 +1,12 @@
-# 3D Molier Models static website
+# 3D Molier Models static site
 
-Static SEO website for GitHub Pages.
+This update includes:
+- 100 static product cards inserted directly into `index.html`.
+- TurboSquid links open in a new tab and include `?referral=3d_molier-studio`.
+- Expanded SEO category pages.
+- New simulation landing page.
+- Stronger custom modeling page with mailto link: dddmolier@gmail.com.
+- Local SVG favicon and visual hero banner.
+- Product JSON-LD structured data.
 
-## How to publish on GitHub Pages
-
-1. Create a new public GitHub repository, for example `3dmolier-models`.
-2. Upload all files from this folder to the repository root.
-3. Open repository Settings -> Pages.
-4. In Build and deployment, choose Deploy from a branch.
-5. Select branch `main` and folder `/root`.
-6. Save. GitHub will publish the site at a github.io URL.
-
-## What to edit first
-
-- `data.js`: replace sample model cards with real TurboSquid product links and image URLs.
-- `custom-3d-modeling.html`: replace `dddmolier@gmail.com` with your email.
-- `sitemap.xml`, `robots.txt`, canonical URLs: replace `https://andrey3dmolier-glitch.github.io/3dmolier-models/` with your final GitHub Pages URL or custom domain.
-- Category pages: expand each page with real model examples and internal links.
-
-## Recommended next step
-
-Add 20-30 real models to `data.js`, grouped by category.
+Upload all files to the root of the GitHub repository and commit changes.
