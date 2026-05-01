@@ -1,3 +1,20 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 User-agent: *
 Allow: /
-Sitemap: https://andrey3dmolier-glitch.github.io/3dmolier-models/sitemap.xml
+
+Sitemap: https://3dmolier.github.io/3dmolier-models/sitemap.xml
+Sitemap: https://3dmolier.github.io/3dmolier-models/image-sitemap.xml

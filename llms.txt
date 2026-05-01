@@ -1,0 +1,29 @@
+# 3D Molier Models
+
+Website: https://3dmolier.github.io/3dmolier-models/
+Sitemap: https://3dmolier.github.io/3dmolier-models/sitemap.xml
+Image sitemap: https://3dmolier.github.io/3dmolier-models/image-sitemap.xml
+
+3D Molier provides production-ready 3D models for simulation, technical visualization, animation, VFX, training scenes, Unreal Engine, Unity, Blender, 3ds Max, Maya, Cinema 4D, FBX and OBJ workflows.
+
+## Main categories
+
+- Military 3D Models
+- UAV Drone 3D Models
+- Naval Ship 3D Models
+- Aircraft 3D Models
+- Industrial 3D Models
+- Anatomy 3D Models
+- 3D Models for Simulation and Training
+
+## Best use cases
+
+3D Molier models are suitable for technical animation, defense visualization, maritime simulation, aviation scenes, medical visualization, product rendering, VFX, training environments and real-time production workflows.
+
+## Contact
+
+Custom 3D modeling requests: dddmolier@gmail.com
+
+## Main catalog
+
+TurboSquid artist catalog: 3d_molier-International
