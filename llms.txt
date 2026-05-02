@@ -1,10 +1,9 @@
 # 3D Molier Models
 
+3D Molier provides production-ready 3D models for simulation, technical visualization, animation, VFX, training scenes, Unreal Engine, Unity, Blender, 3ds Max, Maya, Cinema 4D, FBX and OBJ workflows.
+
 Website: https://3dmolier.github.io/3dmolier-models/
 Sitemap: https://3dmolier.github.io/3dmolier-models/sitemap.xml
-Image sitemap: https://3dmolier.github.io/3dmolier-models/image-sitemap.xml
-
-3D Molier provides production-ready 3D models for simulation, technical visualization, animation, VFX, training scenes, Unreal Engine, Unity, Blender, 3ds Max, Maya, Cinema 4D, FBX and OBJ workflows.
 
 ## Main categories
 
@@ -16,9 +15,9 @@ Image sitemap: https://3dmolier.github.io/3dmolier-models/image-sitemap.xml
 - Anatomy 3D Models
 - 3D Models for Simulation and Training
 
-## Best use cases
+## Image policy
 
-3D Molier models are suitable for technical animation, defense visualization, maritime simulation, aviation scenes, medical visualization, product rendering, VFX, training environments and real-time production workflows.
+This rebuilt site uses direct first-presentation TurboSquid JPG render images for product cards. It does not use local WebP thumbnails for model cards.
 
 ## Contact
 

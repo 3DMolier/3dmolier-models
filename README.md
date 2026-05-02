@@ -1,7 +1,11 @@
-# 3D Molier Models static website
+# 3D Molier Models
 
-Upload all files to the root of the GitHub repository. GitHub Pages should publish from `main` / root.
+Clean rebuilt GitHub Pages project.
 
-Important: replace `https://forms.gle/REPLACE_WITH_YOUR_FORM_ID` in `custom-3d-modeling.html` with your real Google Forms link.
+Important:
+- Product cards use direct TurboSquid JPG URLs.
+- CSS uses object-fit: contain to prevent cropping or stretching.
+- JavaScript does not replace product images after page load.
+- Main canonical URL: https://3dmolier.github.io/3dmolier-models/
 
-Main public URL: https://3dmolier.github.io/3dmolier-models/
+Upload all files to the root of the GitHub repository.

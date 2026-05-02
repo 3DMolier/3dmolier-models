@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
   const toggle = document.querySelector('.menu-toggle');
   const nav = document.querySelector('.nav');
@@ -5,19 +6,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const search = document.querySelector('[data-model-search]');
   const filter = document.querySelector('[data-model-filter]');
-  const cards = [...document.querySelectorAll('.model-card')];
-
+  const cards = Array.from(document.querySelectorAll('.model-card'));
   function applyFilters() {
     const q = (search?.value || '').toLowerCase().trim();
     const f = filter?.value || 'all';
     cards.forEach(card => {
-      const matchText = !q || (card.dataset.title || '').includes(q);
+      const title = (card.dataset.title || '').toLowerCase();
       const cats = (card.dataset.category || '').split(/\s+/);
-      const matchCat = f === 'all' || cats.includes(f);
-      card.style.display = matchText && matchCat ? '' : 'none';
+      const okText = !q || title.includes(q);
+      const okCat = f === 'all' || cats.includes(f);
+      card.style.display = okText && okCat ? '' : 'none';
     });
   }
-
   search?.addEventListener('input', applyFilters);
   filter?.addEventListener('change', applyFilters);
 });

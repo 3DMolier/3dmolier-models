@@ -1,14 +1,16 @@
-FULL CLEAN REUPLOAD INSTRUCTIONS
+# GitHub clean re-upload instructions
 
-1. Open GitHub Desktop and open the local repository folder for 3dmolier-models.
-2. Delete all old files and folders inside the repository folder, but DO NOT delete the hidden .git folder.
-3. Unzip this archive.
-4. Copy all files and folders from the unzipped archive into the repository root.
-5. In GitHub Desktop, Summary: Rebuild site with TurboSquid JPG images
-6. Click Commit to main.
-7. Click Push origin.
-8. Wait a few minutes for GitHub Pages to update.
-9. Open https://3dmolier.github.io/3dmolier-models/ in an incognito window or press Ctrl+F5.
+Use GitHub Desktop.
 
-Important: do not upload the ZIP file itself to GitHub. Upload/copy the files inside it.
-This version does not use local model WebP images. Model cards use exact TurboSquid JPG preview URLs from the data file.
+1. Open the local folder of your `3dmolier-models` repository.
+2. Delete every old file and folder inside it.
+3. Do NOT delete the hidden `.git` folder.
+4. Unzip this archive.
+5. Copy all files and folders from the unzipped archive into the repository root.
+6. In GitHub Desktop, write Summary: `Clean rebuild with TurboSquid first images`
+7. Click `Commit to main`.
+8. Click `Push origin`.
+9. Wait a few minutes.
+10. Open https://3dmolier.github.io/3dmolier-models/ in Incognito or press Ctrl+F5.
+
+This project uses direct TurboSquid JPG preview URLs for product cards.
