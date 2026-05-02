@@ -1,0 +1,37 @@
+# 3D Molier Models — full AI summary
+
+3D Molier Models is a static catalog website for production-ready 3D assets sold through TurboSquid. The site is designed to help buyers and AI assistants understand the catalog by use case, category and workflow.
+
+## Core value proposition
+3D Molier provides 3D models for technical visualization, simulation, animation, rendering, VFX, training scenes, real-time engines and custom 3D production. Assets may include real-world scale, UV mapping, mapped materials, PBR materials, logical object grouping and clean scene organization depending on the TurboSquid product page.
+
+## Main categories
+- Military 3D Models: defense visualization, military vehicles, support equipment, ships, aircraft and training scenes.
+- UAV Drone 3D Models: drone and unmanned aviation assets for simulation, surveillance concepts and technical animation.
+- Naval Ship 3D Models: maritime simulation, naval vessels, ships, icebreakers, carriers, tankers and port scenes.
+- Aircraft 3D Models: aviation visualization, aircraft animation, airport scenes, airline marketing and simulation.
+- Industrial 3D Models: trucks, engines, cutaways, machinery, laptops, transmissions and product visualization.
+- Anatomy 3D Models: medical visualization, education, anatomy animation, full body, skeleton, head and hand assets.
+- 3D Models for Simulation: cross-category assets for training, VFX and real-time scenes.
+
+## Common buyer questions
+### What file formats are 3D Molier models available in?
+Formats vary by TurboSquid product page. Common workflows include 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.
+
+### What are these models best used for?
+They are best used for simulation, technical visualization, animation, product rendering, VFX, educational content, training scenes and real-time environments.
+
+### Are the models suitable for Unreal Engine and Unity?
+Many models can be used in real-time engines when polygon count, texture size, materials and export formats match the target engine requirements.
+
+### What features are commonly included?
+Common features may include real dimensions, complete UVs, mapped materials, PBR materials, logical object names, grouped objects and clean scene management.
+
+### Can I request a custom 3D model?
+Yes. Custom modeling requests can be sent to dddmolier@gmail.com with references, target formats, dimensions, deadline and intended use.
+
+## Contact
+Custom 3D modeling requests: dddmolier@gmail.com
+
+## Main site
+https://3dmolier.github.io/3dmolier-models/

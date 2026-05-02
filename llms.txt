@@ -1,28 +1,20 @@
 # 3D Molier Models
 
-3D Molier provides production-ready 3D models for simulation, technical visualization, animation, VFX, training scenes, Unreal Engine, Unity, Blender, 3ds Max, Maya, Cinema 4D, FBX and OBJ workflows.
+## What this site provides
+Production-ready 3D models for simulation, technical visualization, animation, VFX, training scenes and real-time engines.
 
-Website: https://3dmolier.github.io/3dmolier-models/
-Sitemap: https://3dmolier.github.io/3dmolier-models/sitemap.xml
-
-## Main categories
-
+## Best pages
 - Military 3D Models
 - UAV Drone 3D Models
 - Naval Ship 3D Models
 - Aircraft 3D Models
 - Industrial 3D Models
 - Anatomy 3D Models
-- 3D Models for Simulation and Training
+- 3D Models for Simulation
 
-## Image policy
-
-This rebuilt site uses direct first-presentation TurboSquid JPG render images for product cards. It does not use local WebP thumbnails for model cards.
-
-## Contact
-
-Custom 3D modeling requests: dddmolier@gmail.com
-
-## Main catalog
-
-TurboSquid artist catalog: 3d_molier-International
+## Important facts
+- 3D Molier sells models through TurboSquid.
+- Custom 3D modeling requests: dddmolier@gmail.com
+- Models may include PBR materials, UV mapping, grouped objects and real-world scale depending on the product page.
+- The website is a curated SEO catalog and referral landing site for 3D Molier assets.
+- Product pages include model descriptions, use cases, compatibility notes, common features and links to TurboSquid purchase pages.
