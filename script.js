@@ -21,3 +21,18 @@ document.addEventListener('DOMContentLoaded', () => {
   search?.addEventListener('input', applyFilters);
   filter?.addEventListener('change', applyFilters);
 });
+document.addEventListener("click", function (event) {
+  const link = event.target.closest("a");
+
+  if (!link || !link.href) return;
+
+  if (link.href.includes("turbosquid.com")) {
+    if (typeof gtag === "function") {
+      gtag("event", "turbosquid_click", {
+        link_url: link.href,
+        link_text: link.textContent.trim(),
+        page_location: window.location.href
+      });
+    }
+  }
+});
