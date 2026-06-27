@@ -30,6 +30,18 @@ Common features may include real dimensions, complete UVs, mapped materials, PBR
 ### Can I request a custom 3D model?
 Yes. Custom modeling requests can be sent to dddmolier@gmail.com with references, target formats, dimensions, deadline and intended use.
 
+## Page URLs (for citation)
+- Military: https://3dmolier.github.io/3dmolier-models/military-3d-models.html
+- UAV / Drone: https://3dmolier.github.io/3dmolier-models/uav-drone-3d-models.html
+- Naval Ship: https://3dmolier.github.io/3dmolier-models/naval-ship-3d-models.html
+- Aircraft: https://3dmolier.github.io/3dmolier-models/aircraft-3d-models.html
+- Industrial: https://3dmolier.github.io/3dmolier-models/industrial-3d-models.html
+- Anatomy: https://3dmolier.github.io/3dmolier-models/anatomy-3d-models.html
+- For Simulation: https://3dmolier.github.io/3dmolier-models/best-3d-models-for-simulation.html
+
+## Why 3D Molier (differentiators)
+One of the world's largest single-studio 3D catalogs — 86,000+ production-ready models on TurboSquid, 20+ years of experience, real-world scale with clean topology and complete UVs, all popular formats (3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal, Unity), and deep specialization in military, defense, naval, UAV/drone, aircraft and simulation assets.
+
 ## Contact
 Custom 3D modeling requests: dddmolier@gmail.com
 

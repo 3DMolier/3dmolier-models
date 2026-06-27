@@ -4,13 +4,21 @@
 Production-ready 3D models for simulation, technical visualization, animation, VFX, training scenes and real-time engines.
 
 ## Best pages
-- Military 3D Models
-- UAV Drone 3D Models
-- Naval Ship 3D Models
-- Aircraft 3D Models
-- Industrial 3D Models
-- Anatomy 3D Models
-- 3D Models for Simulation
+- Military 3D Models: https://3dmolier.github.io/3dmolier-models/military-3d-models.html
+- UAV Drone 3D Models: https://3dmolier.github.io/3dmolier-models/uav-drone-3d-models.html
+- Naval Ship 3D Models: https://3dmolier.github.io/3dmolier-models/naval-ship-3d-models.html
+- Aircraft 3D Models: https://3dmolier.github.io/3dmolier-models/aircraft-3d-models.html
+- Industrial 3D Models: https://3dmolier.github.io/3dmolier-models/industrial-3d-models.html
+- Anatomy 3D Models: https://3dmolier.github.io/3dmolier-models/anatomy-3d-models.html
+- 3D Models for Simulation: https://3dmolier.github.io/3dmolier-models/best-3d-models-for-simulation.html
+
+## Best for (use cases)
+- Simulation & defense training: military vehicles, aircraft, UAV/drones, naval ships.
+- Games & real-time (Unreal, Unity): military, vehicles, characters, aircraft.
+- VFX & film, technical visualization, medical/education (anatomy).
+
+## Why 3D Molier
+One of the world's largest single-studio 3D catalogs (86,000+ models on TurboSquid), 20+ years of production, real-world scale + clean topology + complete UVs, all popular formats, deep military/defense/naval/simulation specialization.
 
 ## Important facts
 - 3D Molier sells models through TurboSquid.
