@@ -2,7 +2,7 @@ window.MODELS = [
   {
     "id": 1,
     "title": "Male Full Body Anatomy and Skin",
-    "url": "https://www.turbosquid.com/3d-models/3d-male-body-anatomy-skin-1467539?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-male-body-anatomy-skin-1467539?referral=3d_molier-international",
     "image": "assets/images/large/001-male-full-body-anatomy-and-skin-3d-model.html.webp",
     "description": "Male Full Body Anatomy and Skin is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Male Full Body Anatomy and Skin 3D Model",
@@ -20,7 +20,7 @@ window.MODELS = [
   {
     "id": 2,
     "title": "Complete Female Body Anatomy and Skin",
-    "url": "https://www.turbosquid.com/3d-models/complete-female-body-anatomy-skin-3d-model-1611038?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/complete-female-body-anatomy-skin-3d-model-1611038?referral=3d_molier-international",
     "image": "assets/images/large/002-complete-female-body-anatomy-and-skin-3d-model.html.webp",
     "description": "Complete Female Body Anatomy and Skin is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Complete Female Body Anatomy and Skin 3D Model",
@@ -38,7 +38,7 @@ window.MODELS = [
   {
     "id": 3,
     "title": "Animated Flying Monarch Butterfly Rigged for Cinema 4D",
-    "url": "https://www.turbosquid.com/3d-models/flying-monarch-butterfly-rigged-3d-model-1566626?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/flying-monarch-butterfly-rigged-3d-model-1566626?referral=3d_molier-international",
     "image": "assets/images/large/003-animated-flying-monarch-butterfly-rigged-for-cinema-4d-3d-model.html.webp",
     "description": "Animated Flying Monarch Butterfly Rigged for Cinema 4D is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Animated Flying Monarch Butterfly Rigged for Cinema 4D 3D Model",
@@ -56,7 +56,7 @@ window.MODELS = [
   {
     "id": 4,
     "title": "Airport Big Collection",
-    "url": "https://www.turbosquid.com/3d-models/3d-airport-big-model-1487699?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-airport-big-model-1487699?referral=3d_molier-international",
     "image": "assets/images/large/004-airport-big-collection-3d-model.html.webp",
     "description": "Airport Big Collection is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Airport Big Collection 3D Model",
@@ -74,7 +74,7 @@ window.MODELS = [
   {
     "id": 5,
     "title": "Eiffel Tower",
-    "url": "https://www.turbosquid.com/3d-models/3d-eiffel-tower-1625177?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-eiffel-tower-1625177?referral=3d_molier-international",
     "image": "assets/images/large/005-eiffel-tower-3d-model.html.webp",
     "description": "Eiffel Tower is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Eiffel Tower 3D Model",
@@ -92,7 +92,7 @@ window.MODELS = [
   {
     "id": 6,
     "title": "Airbus A320 Generic",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-airbus-a320-generic-1230754?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-airbus-a320-generic-1230754?referral=3d_molier-international",
     "image": "assets/images/large/006-airbus-a320-generic-3d-model.html.webp",
     "description": "Airbus A320 Generic is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Airbus A320 Generic 3D Model",
@@ -110,7 +110,7 @@ window.MODELS = [
   {
     "id": 7,
     "title": "Man Hands 2 Rigged for Cinema 4D",
-    "url": "https://www.turbosquid.com/3d-models/man-hands-2-rigged-for-cinema-4d-1103552?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/man-hands-2-rigged-for-cinema-4d-1103552?referral=3d_molier-international",
     "image": "assets/images/large/007-man-hands-2-rigged-for-cinema-4d-3d-model.html.webp",
     "description": "Man Hands 2 Rigged for Cinema 4D is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Man Hands 2 Rigged for Cinema 4D 3D Model",
@@ -128,7 +128,7 @@ window.MODELS = [
   {
     "id": 8,
     "title": "Golden Chinese Dragon Rigged for Cinema 4D",
-    "url": "https://www.turbosquid.com/3d-models/golden-chinese-dragon-rigged-3d-model-1403088?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/golden-chinese-dragon-rigged-3d-model-1403088?referral=3d_molier-international",
     "image": "assets/images/large/008-golden-chinese-dragon-rigged-for-cinema-4d-3d-model.html.webp",
     "description": "Golden Chinese Dragon Rigged for Cinema 4D is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Golden Chinese Dragon Rigged for Cinema 4D 3D Model",
@@ -146,7 +146,7 @@ window.MODELS = [
   {
     "id": 9,
     "title": "Basketball Arena",
-    "url": "https://www.turbosquid.com/3d-models/basketball-arena-3d-model-1612609?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/basketball-arena-3d-model-1612609?referral=3d_molier-international",
     "image": "assets/images/large/009-basketball-arena-3d-model.html.webp",
     "description": "Basketball Arena is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Basketball Arena 3D Model",
@@ -164,7 +164,7 @@ window.MODELS = [
   {
     "id": 10,
     "title": "Colosseum",
-    "url": "https://www.turbosquid.com/3d-models/colosseum-amphitheater-ancient-3d-1358782?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/colosseum-amphitheater-ancient-3d-1358782?referral=3d_molier-international",
     "image": "assets/images/large/010-colosseum-3d-model.html.webp",
     "description": "Colosseum is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Colosseum 3D Model",
@@ -182,7 +182,7 @@ window.MODELS = [
   {
     "id": 11,
     "title": "Short Track NASCAR Bristol Motor Speedway",
-    "url": "https://www.turbosquid.com/3d-models/3d-short-track-nascar-bristol-motor-speedway-model-1971793?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-short-track-nascar-bristol-motor-speedway-model-1971793?referral=3d_molier-international",
     "image": "assets/images/large/011-short-track-nascar-bristol-motor-speedway-3d-model.html.webp",
     "description": "Short Track NASCAR Bristol Motor Speedway is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Short Track NASCAR Bristol Motor Speedway 3D Model",
@@ -200,7 +200,7 @@ window.MODELS = [
   {
     "id": 12,
     "title": "Male Full Body Anatomy",
-    "url": "https://www.turbosquid.com/3d-models/male-body-anatomy-3d-model-1476136?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/male-body-anatomy-3d-model-1476136?referral=3d_molier-international",
     "image": "assets/images/large/012-male-full-body-anatomy-3d-model.html.webp",
     "description": "Male Full Body Anatomy is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Male Full Body Anatomy 3D Model",
@@ -218,7 +218,7 @@ window.MODELS = [
   {
     "id": 13,
     "title": "Male Skeleton Collection",
-    "url": "https://www.turbosquid.com/3d-models/male-skeleton-collection-1041670?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/male-skeleton-collection-1041670?referral=3d_molier-international",
     "image": "assets/images/large/013-male-skeleton-collection-3d-model.html.webp",
     "description": "Male Skeleton Collection is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Male Skeleton Collection 3D Model",
@@ -236,7 +236,7 @@ window.MODELS = [
   {
     "id": 14,
     "title": "Complete Female Body Anatomy Fur",
-    "url": "https://www.turbosquid.com/3d-models/3d-complete-female-body-anatomy-1611039?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-complete-female-body-anatomy-1611039?referral=3d_molier-international",
     "image": "assets/images/large/014-complete-female-body-anatomy-fur-3d-model.html.webp",
     "description": "Complete Female Body Anatomy Fur is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Complete Female Body Anatomy Fur 3D Model",
@@ -254,7 +254,7 @@ window.MODELS = [
   {
     "id": 15,
     "title": "Semi Truck with Trailer Generic Simple Interior",
-    "url": "https://www.turbosquid.com/3d-models/3d-semi-truck-trailer-generic-1521260?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-semi-truck-trailer-generic-1521260?referral=3d_molier-international",
     "image": "assets/images/large/015-semi-truck-with-trailer-generic-simple-interior-3d-model.html.webp",
     "description": "Semi Truck with Trailer Generic Simple Interior is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Semi Truck with Trailer Generic Simple Interior 3D Model",
@@ -272,7 +272,7 @@ window.MODELS = [
   {
     "id": 16,
     "title": "Human Head Full Anatomy and Skin",
-    "url": "https://www.turbosquid.com/3d-models/3d-human-head-anatomy-skin-model-1474081?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-human-head-anatomy-skin-model-1474081?referral=3d_molier-international",
     "image": "assets/images/large/016-human-head-full-anatomy-and-skin-3d-model.html.webp",
     "description": "Human Head Full Anatomy and Skin is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Human Head Full Anatomy and Skin 3D Model",
@@ -290,7 +290,7 @@ window.MODELS = [
   {
     "id": 17,
     "title": "Stealth Multirole Fighter F-35 Lightning II",
-    "url": "https://www.turbosquid.com/3d-models/3d-stealth-multirole-fighter-f-35-1211595?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-stealth-multirole-fighter-f-35-1211595?referral=3d_molier-international",
     "image": "assets/images/large/017-stealth-multirole-fighter-f-35-lightning-ii-3d-model.html.webp",
     "description": "Stealth Multirole Fighter F-35 Lightning II is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Stealth Multirole Fighter F-35 Lightning II 3D Model",
@@ -309,7 +309,7 @@ window.MODELS = [
   {
     "id": 18,
     "title": "Boeing 737-800 with Interior Delta Air Lines Rigged",
-    "url": "https://www.turbosquid.com/3d-models/3d-boeing-737-800-interior-delta-1179675?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-boeing-737-800-interior-delta-1179675?referral=3d_molier-international",
     "image": "assets/images/large/018-boeing-737-800-with-interior-delta-air-lines-rigged-3d-model.html.webp",
     "description": "Boeing 737-800 with Interior Delta Air Lines Rigged is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Boeing 737-800 with Interior Delta Air Lines Rigged 3D Model",
@@ -327,7 +327,7 @@ window.MODELS = [
   {
     "id": 19,
     "title": "Extravehicular Mobility Unit Rigged for Cinema 4D",
-    "url": "https://www.turbosquid.com/3d-models/extravehicular-mobility-unit-rigged-for-cinema-4d-1117840?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/extravehicular-mobility-unit-rigged-for-cinema-4d-1117840?referral=3d_molier-international",
     "image": "assets/images/large/019-extravehicular-mobility-unit-rigged-for-cinema-4d-3d-model.html.webp",
     "description": "Extravehicular Mobility Unit Rigged for Cinema 4D is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Extravehicular Mobility Unit Rigged for Cinema 4D 3D Model",
@@ -345,7 +345,7 @@ window.MODELS = [
   {
     "id": 20,
     "title": "National Architectural Monument Statue of Liberty",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-national-architectural-monument-statue-of-liberty-2122364?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-national-architectural-monument-statue-of-liberty-2122364?referral=3d_molier-international",
     "image": "assets/images/large/020-national-architectural-monument-statue-of-liberty-3d-model.html.webp",
     "description": "National Architectural Monument Statue of Liberty is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "National Architectural Monument Statue of Liberty 3D Model",
@@ -363,7 +363,7 @@ window.MODELS = [
   {
     "id": 21,
     "title": "Pickup Truck Generic Simple Interior",
-    "url": "https://www.turbosquid.com/3d-models/pickup-truck-generic-simple-3d-model-1464102?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/pickup-truck-generic-simple-3d-model-1464102?referral=3d_molier-international",
     "image": "assets/images/large/021-pickup-truck-generic-simple-interior-3d-model.html.webp",
     "description": "Pickup Truck Generic Simple Interior is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Pickup Truck Generic Simple Interior 3D Model",
@@ -381,7 +381,7 @@ window.MODELS = [
   {
     "id": 22,
     "title": "Sikorsky UH-60 Black Hawk US Military Utility Helicopter",
-    "url": "https://www.turbosquid.com/3d-models/sikorsky-uh-60-black-hawk-us-military-utility-helicopter-1085902?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/sikorsky-uh-60-black-hawk-us-military-utility-helicopter-1085902?referral=3d_molier-international",
     "image": "assets/images/large/022-sikorsky-uh-60-black-hawk-us-military-utility-helicopter-3d-model.html.webp",
     "description": "Sikorsky UH-60 Black Hawk US Military Utility Helicopter is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Sikorsky UH-60 Black Hawk US Military Utility Helicopter 3D Model",
@@ -400,7 +400,7 @@ window.MODELS = [
   {
     "id": 23,
     "title": "Narrow Body Airliner Flight",
-    "url": "https://www.turbosquid.com/3d-models/narrow-body-airliner-flight-3d-1792777?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/narrow-body-airliner-flight-3d-1792777?referral=3d_molier-international",
     "image": "assets/images/large/023-narrow-body-airliner-flight-3d-model.html.webp",
     "description": "Narrow Body Airliner Flight is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Narrow Body Airliner Flight 3D Model",
@@ -419,7 +419,7 @@ window.MODELS = [
   {
     "id": 24,
     "title": "Professional Ultrabook with Hardware Modules",
-    "url": "https://www.turbosquid.com/3d-models/3d-professional-ultrabook-with-hardware-modules-model-2463414?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-professional-ultrabook-with-hardware-modules-model-2463414?referral=3d_molier-international",
     "image": "assets/images/large/024-professional-ultrabook-with-hardware-modules-3d-model.html.webp",
     "description": "Professional Ultrabook with Hardware Modules is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Professional Ultrabook with Hardware Modules 3D Model",
@@ -437,7 +437,7 @@ window.MODELS = [
   {
     "id": 25,
     "title": "Box Truck Isuzu NPR 2018",
-    "url": "https://www.turbosquid.com/3d-models/box-truck-isuzu-npr-3d-model-1233256?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/box-truck-isuzu-npr-3d-model-1233256?referral=3d_molier-international",
     "image": "assets/images/large/025-box-truck-isuzu-npr-2018-3d-model.html.webp",
     "description": "Box Truck Isuzu NPR 2018 is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Box Truck Isuzu NPR 2018 3D Model",
@@ -455,7 +455,7 @@ window.MODELS = [
   {
     "id": 26,
     "title": "US Warships 3D Models Collection",
-    "url": "https://www.turbosquid.com/3d-models/warships-stealth-ship-3d-model-1210219?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/warships-stealth-ship-3d-model-1210219?referral=3d_molier-international",
     "image": "assets/images/large/026-us-warships-3d-models-collection-3d-model.html.webp",
     "description": "US Warships 3D Models Collection is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "US Warships 3D Models Collection 3D Model",
@@ -474,7 +474,7 @@ window.MODELS = [
   {
     "id": 27,
     "title": "Tesla Model 3",
-    "url": "https://www.turbosquid.com/3d-models/tesla-3-modeled-3d-model-1214116?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/tesla-3-modeled-3d-model-1214116?referral=3d_molier-international",
     "image": "assets/images/large/027-tesla-model-3-3d-model.html.webp",
     "description": "Tesla Model 3 is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Tesla Model 3 3D Model",
@@ -492,7 +492,7 @@ window.MODELS = [
   {
     "id": 28,
     "title": "Passenger Cruise Ship",
-    "url": "https://www.turbosquid.com/3d-models/passenger-cruise-ship-3d-model-1615482?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/passenger-cruise-ship-3d-model-1615482?referral=3d_molier-international",
     "image": "assets/images/large/028-passenger-cruise-ship-3d-model.html.webp",
     "description": "Passenger Cruise Ship is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Passenger Cruise Ship 3D Model",
@@ -510,7 +510,7 @@ window.MODELS = [
   {
     "id": 29,
     "title": "Oasis Class Cruise Ship Oasis of The Seas",
-    "url": "https://www.turbosquid.com/3d-models/oasis-class-cruise-ship-3d-model-1334040?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/oasis-class-cruise-ship-3d-model-1334040?referral=3d_molier-international",
     "image": "assets/images/large/029-oasis-class-cruise-ship-oasis-of-the-seas-3d-model.html.webp",
     "description": "Oasis Class Cruise Ship Oasis of The Seas is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Oasis Class Cruise Ship Oasis of The Seas 3D Model",
@@ -528,7 +528,7 @@ window.MODELS = [
   {
     "id": 30,
     "title": "Airbus A400M Atlas Turboprop Military Transport Aircraft",
-    "url": "https://www.turbosquid.com/3d-models/airbus-a400m-atlas-turboprop-3d-1605777?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/airbus-a400m-atlas-turboprop-3d-1605777?referral=3d_molier-international",
     "image": "assets/images/large/030-airbus-a400m-atlas-turboprop-military-transport-aircraft-3d-model.html.webp",
     "description": "Airbus A400M Atlas Turboprop Military Transport Aircraft is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Airbus A400M Atlas Turboprop Military Transport Aircraft 3D Model",
@@ -547,7 +547,7 @@ window.MODELS = [
   {
     "id": 31,
     "title": "Iranian Corvette Shahid Soleimani",
-    "url": "https://www.turbosquid.com/3d-models/3d-iranian-corvette-shahid-soleimani-model-2393337?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-iranian-corvette-shahid-soleimani-model-2393337?referral=3d_molier-international",
     "image": "assets/images/large/031-iranian-corvette-shahid-soleimani-3d-model.html.webp",
     "description": "Iranian Corvette Shahid Soleimani is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Iranian Corvette Shahid Soleimani 3D Model",
@@ -566,7 +566,7 @@ window.MODELS = [
   {
     "id": 32,
     "title": "Cargo Oil Supertanker",
-    "url": "https://www.turbosquid.com/3d-models/cargo-oil-supertanker-3d-2343033?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/cargo-oil-supertanker-3d-2343033?referral=3d_molier-international",
     "image": "assets/images/large/032-cargo-oil-supertanker-3d-model.html.webp",
     "description": "Cargo Oil Supertanker is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Cargo Oil Supertanker 3D Model",
@@ -585,7 +585,7 @@ window.MODELS = [
   {
     "id": 33,
     "title": "Dassault Falcon 900 Business Jet Grey",
-    "url": "https://www.turbosquid.com/3d-models/3d-dassault-falcon-900-business-jet-grey-2384435?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-dassault-falcon-900-business-jet-grey-2384435?referral=3d_molier-international",
     "image": "assets/images/large/033-dassault-falcon-900-business-jet-grey-3d-model.html.webp",
     "description": "Dassault Falcon 900 Business Jet Grey is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Dassault Falcon 900 Business Jet Grey 3D Model",
@@ -603,7 +603,7 @@ window.MODELS = [
   {
     "id": 34,
     "title": "Animated Flying Monarch Butterfly Rigged for Maya",
-    "url": "https://www.turbosquid.com/3d-models/3d-flying-monarch-butterfly-rigged-1566623?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-flying-monarch-butterfly-rigged-1566623?referral=3d_molier-international",
     "image": "assets/images/large/034-animated-flying-monarch-butterfly-rigged-for-maya-3d-model.html.webp",
     "description": "Animated Flying Monarch Butterfly Rigged for Maya is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Animated Flying Monarch Butterfly Rigged for Maya 3D Model",
@@ -621,7 +621,7 @@ window.MODELS = [
   {
     "id": 35,
     "title": "Qatar Traditional Boat",
-    "url": "https://www.turbosquid.com/3d-models/qatar-traditional-boat-model-1357949?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/qatar-traditional-boat-model-1357949?referral=3d_molier-international",
     "image": "assets/images/large/035-qatar-traditional-boat-3d-model.html.webp",
     "description": "Qatar Traditional Boat is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Qatar Traditional Boat 3D Model",
@@ -639,7 +639,7 @@ window.MODELS = [
   {
     "id": 36,
     "title": "USCGC Healy Arctic Research Icebreaker Ship Simplified",
-    "url": "https://www.turbosquid.com/3d-models/uscgc-healy-arctic-research-icebreaker-ship-simplified-model-2518807?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/uscgc-healy-arctic-research-icebreaker-ship-simplified-model-2518807?referral=3d_molier-international",
     "image": "assets/images/large/036-uscgc-healy-arctic-research-icebreaker-ship-simplified-3d-model.html.webp",
     "description": "USCGC Healy Arctic Research Icebreaker Ship Simplified is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "USCGC Healy Arctic Research Icebreaker Ship Simplified 3D Model",
@@ -658,7 +658,7 @@ window.MODELS = [
   {
     "id": 37,
     "title": "Combat Ship Class Corvette Navy",
-    "url": "https://www.turbosquid.com/3d-models/combat-ship-class-corvette-navy-3d-model-2328654?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/combat-ship-class-corvette-navy-3d-model-2328654?referral=3d_molier-international",
     "image": "assets/images/large/037-combat-ship-class-corvette-navy-3d-model.html.webp",
     "description": "Combat Ship Class Corvette Navy is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Combat Ship Class Corvette Navy 3D Model",
@@ -677,7 +677,7 @@ window.MODELS = [
   {
     "id": 38,
     "title": "Airbus A220 300 Detailed Interior",
-    "url": "https://www.turbosquid.com/3d-models/3d-airbus-a220-300-interior-model-1608806?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-airbus-a220-300-interior-model-1608806?referral=3d_molier-international",
     "image": "assets/images/large/038-airbus-a220-300-detailed-interior-3d-model.html.webp",
     "description": "Airbus A220 300 Detailed Interior is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Airbus A220 300 Detailed Interior 3D Model",
@@ -695,7 +695,7 @@ window.MODELS = [
   {
     "id": 39,
     "title": "Boeing 737 MAX 8",
-    "url": "https://www.turbosquid.com/3d-models/3d-boeing-737-max-8-2328745?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-boeing-737-max-8-2328745?referral=3d_molier-international",
     "image": "assets/images/large/039-boeing-737-max-8-3d-model.html.webp",
     "description": "Boeing 737 MAX 8 is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Boeing 737 MAX 8 3D Model",
@@ -713,7 +713,7 @@ window.MODELS = [
   {
     "id": 40,
     "title": "Airport Infrastructure",
-    "url": "https://www.turbosquid.com/3d-models/3d-airport-infrastructure-model-1487401?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-airport-infrastructure-model-1487401?referral=3d_molier-international",
     "image": "assets/images/large/040-airport-infrastructure-3d-model.html.webp",
     "description": "Airport Infrastructure is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Airport Infrastructure 3D Model",
@@ -731,7 +731,7 @@ window.MODELS = [
   {
     "id": 41,
     "title": "KDX III Batch II Aegis Combat Destroyer",
-    "url": "https://www.turbosquid.com/3d-models/kdx-iii-batch-ii-aegis-combat-destroyer-3d-model-2535604?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/kdx-iii-batch-ii-aegis-combat-destroyer-3d-model-2535604?referral=3d_molier-international",
     "image": "assets/images/large/041-kdx-iii-batch-ii-aegis-combat-destroyer-3d-model.html.webp",
     "description": "KDX III Batch II Aegis Combat Destroyer is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "KDX III Batch II Aegis Combat Destroyer 3D Model",
@@ -750,7 +750,7 @@ window.MODELS = [
   {
     "id": 42,
     "title": "Cyborg Male T-pose",
-    "url": "https://www.turbosquid.com/3d-models/3d-cyborg-male-tpose-2101323?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-cyborg-male-tpose-2101323?referral=3d_molier-international",
     "image": "assets/images/large/042-cyborg-male-t-pose-3d-model.html.webp",
     "description": "Cyborg Male T-pose is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Cyborg Male T-pose 3D Model",
@@ -768,7 +768,7 @@ window.MODELS = [
   {
     "id": 43,
     "title": "Pratt Whitney F135 Fighter Engine Metallic",
-    "url": "https://www.turbosquid.com/3d-models/3d-pratt-whitney-f135-fighter-engine-metallic-model-2503048?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-pratt-whitney-f135-fighter-engine-metallic-model-2503048?referral=3d_molier-international",
     "image": "assets/images/large/043-pratt-whitney-f135-fighter-engine-metallic-3d-model.html.webp",
     "description": "Pratt Whitney F135 Fighter Engine Metallic is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Pratt Whitney F135 Fighter Engine Metallic 3D Model",
@@ -788,7 +788,7 @@ window.MODELS = [
   {
     "id": 44,
     "title": "Liebherr LTM 1450 Mobile Crane Rigged",
-    "url": "https://www.turbosquid.com/3d-models/3d-liebherr-ltm-1450-mobile-crane-1397696?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-liebherr-ltm-1450-mobile-crane-1397696?referral=3d_molier-international",
     "image": "assets/images/large/044-liebherr-ltm-1450-mobile-crane-rigged-3d-model.html.webp",
     "description": "Liebherr LTM 1450 Mobile Crane Rigged is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Liebherr LTM 1450 Mobile Crane Rigged 3D Model",
@@ -806,7 +806,7 @@ window.MODELS = [
   {
     "id": 45,
     "title": "Hardened Aircraft Shelter with Fighter Jet Inside",
-    "url": "https://www.turbosquid.com/3d-models/hardened-aircraft-shelter-with-fighter-jet-inside-model-2342376?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/hardened-aircraft-shelter-with-fighter-jet-inside-model-2342376?referral=3d_molier-international",
     "image": "assets/images/large/045-hardened-aircraft-shelter-with-fighter-jet-inside-3d-model.html.webp",
     "description": "Hardened Aircraft Shelter with Fighter Jet Inside is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Hardened Aircraft Shelter with Fighter Jet Inside 3D Model",
@@ -825,7 +825,7 @@ window.MODELS = [
   {
     "id": 46,
     "title": "Statue of Liberty without Pedestal",
-    "url": "https://www.turbosquid.com/3d-models/statue-of-liberty-without-pedestal-3d-model-2119138?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/statue-of-liberty-without-pedestal-3d-model-2119138?referral=3d_molier-international",
     "image": "assets/images/large/046-statue-of-liberty-without-pedestal-3d-model.html.webp",
     "description": "Statue of Liberty without Pedestal is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Statue of Liberty without Pedestal 3D Model",
@@ -843,7 +843,7 @@ window.MODELS = [
   {
     "id": 47,
     "title": "Modern Naval Destroyer Ship",
-    "url": "https://www.turbosquid.com/3d-models/3d-modern-naval-destroyer-ship-model-2362538?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-modern-naval-destroyer-ship-model-2362538?referral=3d_molier-international",
     "image": "assets/images/large/047-modern-naval-destroyer-ship-3d-model.html.webp",
     "description": "Modern Naval Destroyer Ship is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Modern Naval Destroyer Ship 3D Model",
@@ -862,7 +862,7 @@ window.MODELS = [
   {
     "id": 48,
     "title": "Baynunah Class Corvette UAE Navy",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-baynunah-class-corvette-uae-navy-2328200?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-baynunah-class-corvette-uae-navy-2328200?referral=3d_molier-international",
     "image": "assets/images/large/048-baynunah-class-corvette-uae-navy-3d-model.html.webp",
     "description": "Baynunah Class Corvette UAE Navy is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Baynunah Class Corvette UAE Navy 3D Model",
@@ -881,7 +881,7 @@ window.MODELS = [
   {
     "id": 49,
     "title": "Flight Deck Crane Tilly with Damage Helicopter Hull",
-    "url": "https://www.turbosquid.com/3d-models/flight-deck-crane-tilly-with-damage-helicopter-hull-3d-2385205?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/flight-deck-crane-tilly-with-damage-helicopter-hull-3d-2385205?referral=3d_molier-international",
     "image": "assets/images/large/049-flight-deck-crane-tilly-with-damage-helicopter-hull-3d-model.html.webp",
     "description": "Flight Deck Crane Tilly with Damage Helicopter Hull is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Flight Deck Crane Tilly with Damage Helicopter Hull 3D Model",
@@ -900,7 +900,7 @@ window.MODELS = [
   {
     "id": 50,
     "title": "Iranian Destroyer Deylaman",
-    "url": "https://www.turbosquid.com/3d-models/iranian-destroyer-deylaman-model-2325222?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/iranian-destroyer-deylaman-model-2325222?referral=3d_molier-international",
     "image": "assets/images/large/050-iranian-destroyer-deylaman-3d-model.html.webp",
     "description": "Iranian Destroyer Deylaman is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Iranian Destroyer Deylaman 3D Model",
@@ -919,7 +919,7 @@ window.MODELS = [
   {
     "id": 51,
     "title": "USCGC Healy Polar Icebreaker USA Coast Guard Ship",
-    "url": "https://www.turbosquid.com/3d-models/uscgc-healy-polar-icebreaker-usa-coast-guard-ship-model-2518878?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/uscgc-healy-polar-icebreaker-usa-coast-guard-ship-model-2518878?referral=3d_molier-international",
     "image": "assets/images/large/051-uscgc-healy-polar-icebreaker-usa-coast-guard-ship-3d-model.html.webp",
     "description": "USCGC Healy Polar Icebreaker USA Coast Guard Ship is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "USCGC Healy Polar Icebreaker USA Coast Guard Ship 3D Model",
@@ -938,7 +938,7 @@ window.MODELS = [
   {
     "id": 52,
     "title": "Polar Research Icebreaker Ship with Helipad Blue White",
-    "url": "https://www.turbosquid.com/3d-models/3d-polar-research-icebreaker-ship-with-helipad-blue-white-2518857?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-polar-research-icebreaker-ship-with-helipad-blue-white-2518857?referral=3d_molier-international",
     "image": "assets/images/large/052-polar-research-icebreaker-ship-with-helipad-blue-white-3d-model.html.webp",
     "description": "Polar Research Icebreaker Ship with Helipad Blue White is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Polar Research Icebreaker Ship with Helipad Blue White 3D Model",
@@ -956,7 +956,7 @@ window.MODELS = [
   {
     "id": 53,
     "title": "PT6C-67C Turboshaft Engine Cutaway View in Cross-section",
-    "url": "https://www.turbosquid.com/3d-models/pt6c67c-turboshaft-engine-cutaway-view-in-crosssection-3d-2488907?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/pt6c67c-turboshaft-engine-cutaway-view-in-crosssection-3d-2488907?referral=3d_molier-international",
     "image": "assets/images/large/053-pt6c-67c-turboshaft-engine-cutaway-view-in-cross-section-3d-model.html.webp",
     "description": "PT6C-67C Turboshaft Engine Cutaway View in Cross-section is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "PT6C-67C Turboshaft Engine Cutaway View in Cross-section 3D Model",
@@ -974,7 +974,7 @@ window.MODELS = [
   {
     "id": 54,
     "title": "WWII Battleship with Disruptive Naval Camouflage Gray",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-wwii-battleship-with-disruptive-naval-camouflage-gray-2449840?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-wwii-battleship-with-disruptive-naval-camouflage-gray-2449840?referral=3d_molier-international",
     "image": "assets/images/large/054-wwii-battleship-with-disruptive-naval-camouflage-gray-3d-model.html.webp",
     "description": "WWII Battleship with Disruptive Naval Camouflage Gray is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "WWII Battleship with Disruptive Naval Camouflage Gray 3D Model",
@@ -993,7 +993,7 @@ window.MODELS = [
   {
     "id": 55,
     "title": "Low-Speed Marine Diesel Engine Assembly Green",
-    "url": "https://www.turbosquid.com/3d-models/lowspeed-marine-diesel-engine-assembly-green-3d-2551063?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/lowspeed-marine-diesel-engine-assembly-green-3d-2551063?referral=3d_molier-international",
     "image": "assets/images/large/055-low-speed-marine-diesel-engine-assembly-green-3d-model.html.webp",
     "description": "Low-Speed Marine Diesel Engine Assembly Green is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Low-Speed Marine Diesel Engine Assembly Green 3D Model",
@@ -1011,7 +1011,7 @@ window.MODELS = [
   {
     "id": 56,
     "title": "Icebreaking Research Ship with Flight Deck Blue White",
-    "url": "https://www.turbosquid.com/3d-models/icebreaking-research-ship-with-flight-deck-blue-white-3d-model-2518856?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/icebreaking-research-ship-with-flight-deck-blue-white-3d-model-2518856?referral=3d_molier-international",
     "image": "assets/images/large/056-icebreaking-research-ship-with-flight-deck-blue-white-3d-model.html.webp",
     "description": "Icebreaking Research Ship with Flight Deck Blue White is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Icebreaking Research Ship with Flight Deck Blue White 3D Model",
@@ -1030,7 +1030,7 @@ window.MODELS = [
   {
     "id": 57,
     "title": "Cavour 550 Aircraft Carrier Naval Vehicle Gray",
-    "url": "https://www.turbosquid.com/3d-models/cavour-550-aircraft-carrier-naval-vehicle-gray-model-2515790?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/cavour-550-aircraft-carrier-naval-vehicle-gray-model-2515790?referral=3d_molier-international",
     "image": "assets/images/large/057-cavour-550-aircraft-carrier-naval-vehicle-gray-3d-model.html.webp",
     "description": "Cavour 550 Aircraft Carrier Naval Vehicle Gray is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Cavour 550 Aircraft Carrier Naval Vehicle Gray 3D Model",
@@ -1050,7 +1050,7 @@ window.MODELS = [
   {
     "id": 58,
     "title": "Modern Aircraft Carrier Naval Vehicle Gray",
-    "url": "https://www.turbosquid.com/3d-models/modern-aircraft-carrier-naval-vehicle-gray-3d-2515768?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/modern-aircraft-carrier-naval-vehicle-gray-3d-2515768?referral=3d_molier-international",
     "image": "assets/images/large/058-modern-aircraft-carrier-naval-vehicle-gray-3d-model.html.webp",
     "description": "Modern Aircraft Carrier Naval Vehicle Gray is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Modern Aircraft Carrier Naval Vehicle Gray 3D Model",
@@ -1070,7 +1070,7 @@ window.MODELS = [
   {
     "id": 59,
     "title": "Italian Cavour Naval Aircraft Carrier Vehicle Simplified",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-italian-cavour-naval-aircraft-carrier-vehicle-simplified-2515727?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-italian-cavour-naval-aircraft-carrier-vehicle-simplified-2515727?referral=3d_molier-international",
     "image": "assets/images/large/059-italian-cavour-naval-aircraft-carrier-vehicle-simplified-3d-model.html.webp",
     "description": "Italian Cavour Naval Aircraft Carrier Vehicle Simplified is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Italian Cavour Naval Aircraft Carrier Vehicle Simplified 3D Model",
@@ -1090,7 +1090,7 @@ window.MODELS = [
   {
     "id": 60,
     "title": "Yuan Wang Tracking Ship with Radar Dishes Blue",
-    "url": "https://www.turbosquid.com/3d-models/3d-yuan-wang-tracking-ship-with-radar-dishes-blue-2494013?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-yuan-wang-tracking-ship-with-radar-dishes-blue-2494013?referral=3d_molier-international",
     "image": "assets/images/large/060-yuan-wang-tracking-ship-with-radar-dishes-blue-3d-model.html.webp",
     "description": "Yuan Wang Tracking Ship with Radar Dishes Blue is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Yuan Wang Tracking Ship with Radar Dishes Blue 3D Model",
@@ -1108,7 +1108,7 @@ window.MODELS = [
   {
     "id": 61,
     "title": "Research Vessel with Helicopter and Containers",
-    "url": "https://www.turbosquid.com/3d-models/3d-research-vessel-with-helicopter-and-containers-model-2346045?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-research-vessel-with-helicopter-and-containers-model-2346045?referral=3d_molier-international",
     "image": "assets/images/large/061-research-vessel-with-helicopter-and-containers-3d-model.html.webp",
     "description": "Research Vessel with Helicopter and Containers is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Research Vessel with Helicopter and Containers 3D Model",
@@ -1127,7 +1127,7 @@ window.MODELS = [
   {
     "id": 62,
     "title": "B-21 Stealth Bomber Black",
-    "url": "https://www.turbosquid.com/3d-models/3d-b21-stealth-bomber-black-2386221?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-b21-stealth-bomber-black-2386221?referral=3d_molier-international",
     "image": "assets/images/large/062-b-21-stealth-bomber-black-3d-model.html.webp",
     "description": "B-21 Stealth Bomber Black is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "B-21 Stealth Bomber Black 3D Model",
@@ -1146,7 +1146,7 @@ window.MODELS = [
   {
     "id": 63,
     "title": "US Navy John Lewis Class Fleet Oiler Ship Grey",
-    "url": "https://www.turbosquid.com/3d-models/3d-us-navy-john-lewis-class-fleet-oiler-ship-grey-2478369?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-us-navy-john-lewis-class-fleet-oiler-ship-grey-2478369?referral=3d_molier-international",
     "image": "assets/images/large/063-us-navy-john-lewis-class-fleet-oiler-ship-grey-3d-model.html.webp",
     "description": "US Navy John Lewis Class Fleet Oiler Ship Grey is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "US Navy John Lewis Class Fleet Oiler Ship Grey 3D Model",
@@ -1165,7 +1165,7 @@ window.MODELS = [
   {
     "id": 64,
     "title": "Combat Landing Vessel",
-    "url": "https://www.turbosquid.com/3d-models/combat-landing-vessel-model-2396484?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/combat-landing-vessel-model-2396484?referral=3d_molier-international",
     "image": "assets/images/large/064-combat-landing-vessel-3d-model.html.webp",
     "description": "Combat Landing Vessel is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Combat Landing Vessel 3D Model",
@@ -1184,7 +1184,7 @@ window.MODELS = [
   {
     "id": 65,
     "title": "Eye Anatomy Cross-Section",
-    "url": "https://www.turbosquid.com/3d-models/3d-eye-anatomy-cross-section-section-1511494?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-eye-anatomy-cross-section-section-1511494?referral=3d_molier-international",
     "image": "assets/images/large/065-eye-anatomy-cross-section-3d-model.html.webp",
     "description": "Eye Anatomy Cross-Section is a presentation-ready anatomy 3D model for medical visualization, education, healthcare animation and close-up explanatory renders. It is especially useful when a scene needs clear anatomical structure, realistic surface detail and compatibility with professional pipelines such as 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Eye Anatomy Cross-Section 3D Model",
@@ -1202,7 +1202,7 @@ window.MODELS = [
   {
     "id": 66,
     "title": "Heavy Duty Automatic Transmission Cutaway",
-    "url": "https://www.turbosquid.com/3d-models/heavy-duty-automatic-transmission-cutaway-3d-2545783?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/heavy-duty-automatic-transmission-cutaway-3d-2545783?referral=3d_molier-international",
     "image": "assets/images/large/066-heavy-duty-automatic-transmission-cutaway-3d-model.html.webp",
     "description": "Heavy Duty Automatic Transmission Cutaway is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Heavy Duty Automatic Transmission Cutaway 3D Model",
@@ -1220,7 +1220,7 @@ window.MODELS = [
   {
     "id": 67,
     "title": "Allison 4000 Series Automatic Transmission Cutaway",
-    "url": "https://www.turbosquid.com/3d-models/3d-allison-4000-series-automatic-transmission-cutaway-model-2544620?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-allison-4000-series-automatic-transmission-cutaway-model-2544620?referral=3d_molier-international",
     "image": "assets/images/large/067-allison-4000-series-automatic-transmission-cutaway-3d-model.html.webp",
     "description": "Allison 4000 Series Automatic Transmission Cutaway is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Allison 4000 Series Automatic Transmission Cutaway 3D Model",
@@ -1238,7 +1238,7 @@ window.MODELS = [
   {
     "id": 68,
     "title": "Bronze Tabletop Statue of President Lincoln",
-    "url": "https://www.turbosquid.com/3d-models/3d-bronze-tabletop-statue-of-president-lincoln-2522492?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-bronze-tabletop-statue-of-president-lincoln-2522492?referral=3d_molier-international",
     "image": "assets/images/large/068-bronze-tabletop-statue-of-president-lincoln-3d-model.html.webp",
     "description": "Bronze Tabletop Statue of President Lincoln is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Bronze Tabletop Statue of President Lincoln 3D Model",
@@ -1256,7 +1256,7 @@ window.MODELS = [
   {
     "id": 69,
     "title": "Lincoln Memorial Seated Marble Statue",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-lincoln-memorial-seated-marble-statue-2519944?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-lincoln-memorial-seated-marble-statue-2519944?referral=3d_molier-international",
     "image": "assets/images/large/069-lincoln-memorial-seated-marble-statue-3d-model.html.webp",
     "description": "Lincoln Memorial Seated Marble Statue is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Lincoln Memorial Seated Marble Statue 3D Model",
@@ -1274,7 +1274,7 @@ window.MODELS = [
   {
     "id": 70,
     "title": "Combat Aircraft in Flight with Dual Smart Bomb Loadout Gray",
-    "url": "https://www.turbosquid.com/3d-models/combat-aircraft-in-flight-with-dual-smart-bomb-loadout-gray-3d-model-2515796?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/combat-aircraft-in-flight-with-dual-smart-bomb-loadout-gray-3d-model-2515796?referral=3d_molier-international",
     "image": "assets/images/large/070-combat-aircraft-in-flight-with-dual-smart-bomb-loadout-gray-3d-model.html.webp",
     "description": "Combat Aircraft in Flight with Dual Smart Bomb Loadout Gray is a military aviation 3D model for defense visualization, flight animation, training environments and cinematic shots. It fits projects that need a recognizable aircraft silhouette, realistic presentation renders and export workflows for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity.",
     "alt": "Combat Aircraft in Flight with Dual Smart Bomb Loadout Gray 3D Model",
@@ -1293,7 +1293,7 @@ window.MODELS = [
   {
     "id": 71,
     "title": "USS Lewis B Puller Expeditionary Mobile Base Simplified",
-    "url": "https://www.turbosquid.com/3d-models/uss-lewis-b-puller-expeditionary-mobile-base-simplified-3d-2494579?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/uss-lewis-b-puller-expeditionary-mobile-base-simplified-3d-2494579?referral=3d_molier-international",
     "image": "assets/images/large/071-uss-lewis-b-puller-expeditionary-mobile-base-simplified-3d-model.html.webp",
     "description": "USS Lewis B Puller Expeditionary Mobile Base Simplified is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "USS Lewis B Puller Expeditionary Mobile Base Simplified 3D Model",
@@ -1311,7 +1311,7 @@ window.MODELS = [
   {
     "id": 72,
     "title": "NAVY TYPE 055 Destroyer",
-    "url": "https://www.turbosquid.com/3d-models/navy-type-055-destroyer-3d-2414337?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/navy-type-055-destroyer-3d-2414337?referral=3d_molier-international",
     "image": "assets/images/large/072-navy-type-055-destroyer-3d-model.html.webp",
     "description": "NAVY TYPE 055 Destroyer is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "NAVY TYPE 055 Destroyer 3D Model",
@@ -1330,7 +1330,7 @@ window.MODELS = [
   {
     "id": 73,
     "title": "Medium Duty Truck and Tanker Trailer",
-    "url": "https://www.turbosquid.com/3d-models/3d-medium-duty-truck-and-tanker-trailer-2327363?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-medium-duty-truck-and-tanker-trailer-2327363?referral=3d_molier-international",
     "image": "assets/images/large/073-medium-duty-truck-and-tanker-trailer-3d-model.html.webp",
     "description": "Medium Duty Truck and Tanker Trailer is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Medium Duty Truck and Tanker Trailer 3D Model",
@@ -1349,7 +1349,7 @@ window.MODELS = [
   {
     "id": 74,
     "title": "Stealth Naval Combat Ship Gray",
-    "url": "https://www.turbosquid.com/3d-models/stealth-naval-combat-ship-gray-3d-2412592?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/stealth-naval-combat-ship-gray-3d-2412592?referral=3d_molier-international",
     "image": "assets/images/large/074-stealth-naval-combat-ship-gray-3d-model.html.webp",
     "description": "Stealth Naval Combat Ship Gray is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Stealth Naval Combat Ship Gray 3D Model",
@@ -1368,7 +1368,7 @@ window.MODELS = [
   {
     "id": 75,
     "title": "HP EliteBook X G1a Business Laptop with Hardware Modules",
-    "url": "https://www.turbosquid.com/3d-models/hp-elitebook-x-g1a-business-laptop-with-hardware-modules-3d-2463249?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/hp-elitebook-x-g1a-business-laptop-with-hardware-modules-3d-2463249?referral=3d_molier-international",
     "image": "assets/images/large/075-hp-elitebook-x-g1a-business-laptop-with-hardware-modules-3d-model.html.webp",
     "description": "HP EliteBook X G1a Business Laptop with Hardware Modules is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "HP EliteBook X G1a Business Laptop with Hardware Modules 3D Model",
@@ -1386,7 +1386,7 @@ window.MODELS = [
   {
     "id": 76,
     "title": "City River Passenger Ferry",
-    "url": "https://www.turbosquid.com/3d-models/city-river-passenger-ferry-3d-model-2391445?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/city-river-passenger-ferry-3d-model-2391445?referral=3d_molier-international",
     "image": "assets/images/large/076-city-river-passenger-ferry-3d-model.html.webp",
     "description": "City River Passenger Ferry is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "City River Passenger Ferry 3D Model",
@@ -1404,7 +1404,7 @@ window.MODELS = [
   {
     "id": 77,
     "title": "Fujian CV 18 Chinese Aircraft Carrier",
-    "url": "https://www.turbosquid.com/3d-models/3d-fujian-cv-18-chinese-aircraft-carrier-2368739?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-fujian-cv-18-chinese-aircraft-carrier-2368739?referral=3d_molier-international",
     "image": "assets/images/large/077-fujian-cv-18-chinese-aircraft-carrier-3d-model.html.webp",
     "description": "Fujian CV 18 Chinese Aircraft Carrier is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Fujian CV 18 Chinese Aircraft Carrier 3D Model",
@@ -1424,7 +1424,7 @@ window.MODELS = [
   {
     "id": 78,
     "title": "Type-055s Naval Destroyer Ship",
-    "url": "https://www.turbosquid.com/3d-models/3d-type055s-naval-destroyer-ship-2366388?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-type055s-naval-destroyer-ship-2366388?referral=3d_molier-international",
     "image": "assets/images/large/078-type-055s-naval-destroyer-ship-3d-model.html.webp",
     "description": "Type-055s Naval Destroyer Ship is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Type-055s Naval Destroyer Ship 3D Model",
@@ -1443,7 +1443,7 @@ window.MODELS = [
   {
     "id": 79,
     "title": "Modern Armed Warship Naval",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-modern-armed-warship-naval-2325160?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-modern-armed-warship-naval-2325160?referral=3d_molier-international",
     "image": "assets/images/large/079-modern-armed-warship-naval-3d-model.html.webp",
     "description": "Modern Armed Warship Naval is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Modern Armed Warship Naval 3D Model",
@@ -1462,7 +1462,7 @@ window.MODELS = [
   {
     "id": 80,
     "title": "IDF Namer Armored Infantry Carrier Dirty",
-    "url": "https://www.turbosquid.com/3d-models/idf-namer-armored-infantry-carrier-dirty-3d-model-2411082?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/idf-namer-armored-infantry-carrier-dirty-3d-model-2411082?referral=3d_molier-international",
     "image": "assets/images/large/080-idf-namer-armored-infantry-carrier-dirty-3d-model.html.webp",
     "description": "IDF Namer Armored Infantry Carrier Dirty is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "IDF Namer Armored Infantry Carrier Dirty 3D Model",
@@ -1481,7 +1481,7 @@ window.MODELS = [
   {
     "id": 81,
     "title": "Arleigh Burke Destroyer Porter DDG-78",
-    "url": "https://www.turbosquid.com/3d-models/arleigh-burke-destroyer-porter-3d-model-1157592?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/arleigh-burke-destroyer-porter-3d-model-1157592?referral=3d_molier-international",
     "image": "assets/images/large/081-arleigh-burke-destroyer-porter-ddg-78-3d-model.html.webp",
     "description": "Arleigh Burke Destroyer Porter DDG-78 is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Arleigh Burke Destroyer Porter DDG-78 3D Model",
@@ -1500,7 +1500,7 @@ window.MODELS = [
   {
     "id": 82,
     "title": "TCG Anadolu L400",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-tcg-anadolu-l400-2328342?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-tcg-anadolu-l400-2328342?referral=3d_molier-international",
     "image": "assets/images/large/082-tcg-anadolu-l400-3d-model.html.webp",
     "description": "TCG Anadolu L400 is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "TCG Anadolu L400 3D Model",
@@ -1518,7 +1518,7 @@ window.MODELS = [
   {
     "id": 83,
     "title": "Typhon Missile Launcher with Tractor M983",
-    "url": "https://www.turbosquid.com/3d-models/typhon-missile-launcher-with-tractor-m983-3d-model-2330213?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/typhon-missile-launcher-with-tractor-m983-3d-model-2330213?referral=3d_molier-international",
     "image": "assets/images/large/083-typhon-missile-launcher-with-tractor-m983-3d-model.html.webp",
     "description": "Typhon Missile Launcher with Tractor M983 is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Typhon Missile Launcher with Tractor M983 3D Model",
@@ -1536,7 +1536,7 @@ window.MODELS = [
   {
     "id": 84,
     "title": "Marine Two Stroke Diesel Engine Unit Simplified",
-    "url": "https://www.turbosquid.com/3d-models/3d-marine-two-stroke-diesel-engine-unit-simplified-2551059?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-marine-two-stroke-diesel-engine-unit-simplified-2551059?referral=3d_molier-international",
     "image": "assets/images/large/084-marine-two-stroke-diesel-engine-unit-simplified-3d-model.html.webp",
     "description": "Marine Two Stroke Diesel Engine Unit Simplified is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Marine Two Stroke Diesel Engine Unit Simplified 3D Model",
@@ -1554,7 +1554,7 @@ window.MODELS = [
   {
     "id": 85,
     "title": "Ramform Titan Seismic Survey Vessel with Helipad White and Red",
-    "url": "https://www.turbosquid.com/3d-models/3d-ramform-titan-seismic-survey-vessel-with-helipad-white-and-red-2447898?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-ramform-titan-seismic-survey-vessel-with-helipad-white-and-red-2447898?referral=3d_molier-international",
     "image": "assets/images/large/085-ramform-titan-seismic-survey-vessel-with-helipad-white-and-red-3d-model.html.webp",
     "description": "Ramform Titan Seismic Survey Vessel with Helipad White and Red is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Ramform Titan Seismic Survey Vessel with Helipad White and Red 3D Model",
@@ -1572,7 +1572,7 @@ window.MODELS = [
   {
     "id": 86,
     "title": "Iranian Bavar 373 Air Defense System on Ready with Missile",
-    "url": "https://www.turbosquid.com/3d-models/iranian-bavar-373-air-defense-system-on-ready-with-missile-3d-model-2341376?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/iranian-bavar-373-air-defense-system-on-ready-with-missile-3d-model-2341376?referral=3d_molier-international",
     "image": "assets/images/large/086-iranian-bavar-373-air-defense-system-on-ready-with-missile-3d-model.html.webp",
     "description": "Iranian Bavar 373 Air Defense System on Ready with Missile is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Iranian Bavar 373 Air Defense System on Ready with Missile 3D Model",
@@ -1590,7 +1590,7 @@ window.MODELS = [
   {
     "id": 87,
     "title": "Rattlesnake Rigged for Cinema 4D",
-    "url": "https://www.turbosquid.com/3d-models/rattlesnake-snake-rattle-rigged-3d-model-1436169?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/rattlesnake-snake-rattle-rigged-3d-model-1436169?referral=3d_molier-international",
     "image": "assets/images/large/087-rattlesnake-rigged-for-cinema-4d-3d-model.html.webp",
     "description": "Rattlesnake Rigged for Cinema 4D is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Rattlesnake Rigged for Cinema 4D 3D Model",
@@ -1608,7 +1608,7 @@ window.MODELS = [
   {
     "id": 88,
     "title": "Pioneering Spirit Construction Vessel Allseas",
-    "url": "https://www.turbosquid.com/3d-models/pioneering-spirit-construction-vessel-allseas-3d-2464951?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/pioneering-spirit-construction-vessel-allseas-3d-2464951?referral=3d_molier-international",
     "image": "assets/images/large/088-pioneering-spirit-construction-vessel-allseas-3d-model.html.webp",
     "description": "Pioneering Spirit Construction Vessel Allseas is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Pioneering Spirit Construction Vessel Allseas 3D Model",
@@ -1627,7 +1627,7 @@ window.MODELS = [
   {
     "id": 89,
     "title": "Iranian Military Vessels Collection",
-    "url": "https://www.turbosquid.com/3d-models/iranian-military-vessels-collection-3d-model-2440122?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/iranian-military-vessels-collection-3d-model-2440122?referral=3d_molier-international",
     "image": "assets/images/large/089-iranian-military-vessels-collection-3d-model.html.webp",
     "description": "Iranian Military Vessels Collection is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Iranian Military Vessels Collection 3D Model",
@@ -1646,7 +1646,7 @@ window.MODELS = [
   {
     "id": 90,
     "title": "Tesla Model X Skateboard Chassis",
-    "url": "https://www.turbosquid.com/3d-models/tesla-model-x-skateboard-chassis-3d-2424739?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/tesla-model-x-skateboard-chassis-3d-2424739?referral=3d_molier-international",
     "image": "assets/images/large/090-tesla-model-x-skateboard-chassis-3d-model.html.webp",
     "description": "Tesla Model X Skateboard Chassis is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Tesla Model X Skateboard Chassis 3D Model",
@@ -1664,7 +1664,7 @@ window.MODELS = [
   {
     "id": 91,
     "title": "Jet Plane Dassault Falcon 900 White",
-    "url": "https://www.turbosquid.com/3d-models/jet-plane-dassault-falcon-900-white-3d-model-2384590?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/jet-plane-dassault-falcon-900-white-3d-model-2384590?referral=3d_molier-international",
     "image": "assets/images/large/091-jet-plane-dassault-falcon-900-white-3d-model.html.webp",
     "description": "Jet Plane Dassault Falcon 900 White is an aircraft 3D model for aviation visualization, airport environments, flight animation, airline marketing renders and simulation scenes. It is a practical asset for Blender, 3ds Max, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity pipelines.",
     "alt": "Jet Plane Dassault Falcon 900 White 3D Model",
@@ -1682,7 +1682,7 @@ window.MODELS = [
   {
     "id": 92,
     "title": "Insects Big Rigged Collection 5",
-    "url": "https://www.turbosquid.com/3d-models/insects-big-rigged-5-3d-model-1595521?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/insects-big-rigged-5-3d-model-1595521?referral=3d_molier-international",
     "image": "assets/images/large/092-insects-big-rigged-collection-5-3d-model.html.webp",
     "description": "Insects Big Rigged Collection 5 is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Insects Big Rigged Collection 5 3D Model",
@@ -1700,7 +1700,7 @@ window.MODELS = [
   {
     "id": 93,
     "title": "Futuristic Spaceships Collection",
-    "url": "https://www.turbosquid.com/3d-models/3d-futuristic-spaceships-collection-model-2559890?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-futuristic-spaceships-collection-model-2559890?referral=3d_molier-international",
     "image": "assets/images/large/093-futuristic-spaceships-collection-3d-model.html.webp",
     "description": "Futuristic Spaceships Collection is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Futuristic Spaceships Collection 3D Model",
@@ -1718,7 +1718,7 @@ window.MODELS = [
   {
     "id": 94,
     "title": "Creole Spirit LNG Tanker",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-creole-spirit-lng-tanker-2551078?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-creole-spirit-lng-tanker-2551078?referral=3d_molier-international",
     "image": "assets/images/large/094-creole-spirit-lng-tanker-3d-model.html.webp",
     "description": "Creole Spirit LNG Tanker is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Creole Spirit LNG Tanker 3D Model",
@@ -1737,7 +1737,7 @@ window.MODELS = [
   {
     "id": 95,
     "title": "Marine LNG Transport Ship",
-    "url": "https://www.turbosquid.com/3d-models/3d-marine-lng-transport-ship-model-2551058?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-marine-lng-transport-ship-model-2551058?referral=3d_molier-international",
     "image": "assets/images/large/095-marine-lng-transport-ship-3d-model.html.webp",
     "description": "Marine LNG Transport Ship is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Marine LNG Transport Ship 3D Model",
@@ -1755,7 +1755,7 @@ window.MODELS = [
   {
     "id": 96,
     "title": "Mining Haul Dump Truck Blue Yellow",
-    "url": "https://www.turbosquid.com/3d-models/3d-mining-haul-dump-truck-blue-yellow-2550472?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-mining-haul-dump-truck-blue-yellow-2550472?referral=3d_molier-international",
     "image": "assets/images/large/096-mining-haul-dump-truck-blue-yellow-3d-model.html.webp",
     "description": "Mining Haul Dump Truck Blue Yellow is an industrial 3D model for technical animation, product visualization, machinery explanation, training content and commercial rendering. It helps communicate mechanical form, scale and structure without starting a production model from zero.",
     "alt": "Mining Haul Dump Truck Blue Yellow 3D Model",
@@ -1773,7 +1773,7 @@ window.MODELS = [
   {
     "id": 97,
     "title": "Dogs Collection",
-    "url": "https://www.turbosquid.com/3d-models/dogs-collection-model-2529261?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/dogs-collection-model-2529261?referral=3d_molier-international",
     "image": "assets/images/large/097-dogs-collection-3d-model.html.webp",
     "description": "Dogs Collection is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Dogs Collection 3D Model",
@@ -1791,7 +1791,7 @@ window.MODELS = [
   {
     "id": 98,
     "title": "Patrol Vessels Collection 2",
-    "url": "https://www.turbosquid.com/3d-models/patrol-vessels-collection-2-3d-2526384?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/patrol-vessels-collection-2-3d-2526384?referral=3d_molier-international",
     "image": "assets/images/large/098-patrol-vessels-collection-2-3d-model.html.webp",
     "description": "Patrol Vessels Collection 2 is a ship 3D model for maritime visualization, port scenes, ocean simulation, technical animation and VFX. It can support vessel close-ups, fleet overviews, training materials and production renders where a believable sea asset is needed fast.",
     "alt": "Patrol Vessels Collection 2 3D Model",
@@ -1809,7 +1809,7 @@ window.MODELS = [
   {
     "id": 99,
     "title": "Gesture Emoji Collection 4",
-    "url": "https://www.turbosquid.com/3d-models/gesture-emoji-collection-4-3d-model-2517493?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/gesture-emoji-collection-4-3d-model-2517493?referral=3d_molier-international",
     "image": "assets/images/large/099-gesture-emoji-collection-4-3d-model.html.webp",
     "description": "Gesture Emoji Collection 4 is a polished 3D asset for professional visualization, animation, rendering, VFX and real-time scene building. It is useful for artists and studios that need a fast production starting point for 3ds Max, Blender, Maya, Cinema 4D, FBX, OBJ, Unreal Engine and Unity workflows.",
     "alt": "Gesture Emoji Collection 4 3D Model",
@@ -1827,7 +1827,7 @@ window.MODELS = [
   {
     "id": 100,
     "title": "Military Aircraft Carrier Sea Vehicle Gray Simplified",
-    "url": "https://www.turbosquid.com/3d-models/military-aircraft-carrier-sea-vehicle-gray-simplified-3d-model-2515724?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/military-aircraft-carrier-sea-vehicle-gray-simplified-3d-model-2515724?referral=3d_molier-international",
     "image": "assets/images/large/100-military-aircraft-carrier-sea-vehicle-gray-simplified-3d-model.html.webp",
     "description": "Military Aircraft Carrier Sea Vehicle Gray Simplified is a naval and defense 3D asset for maritime simulation, tactical visualization, ship animation and VFX production. Use it for fleet scenes, training explainers, command presentations and technical shots that require a detailed military vessel or sea vehicle.",
     "alt": "Military Aircraft Carrier Sea Vehicle Gray Simplified 3D Model",
@@ -1846,7 +1846,7 @@ window.MODELS = [
   },
   {
     "title": "Military Drone Airbase Complex with UAV Fur",
-    "url": "https://www.turbosquid.com/3d-models/military-drone-airbase-complex-with-uav-fur-2530497?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/military-drone-airbase-complex-with-uav-fur-2530497?referral=3d_molier-international",
     "image": "assets/images/large/101-military-drone-airbase-complex-with-uav-fur-3d-model.html.webp",
     "description": "Military drone airbase environment with UAV assets, runways, hangars, support vehicles and infrastructure for defense visualization, simulation layouts and cinematic mission planning scenes.",
     "categories": [
@@ -1866,7 +1866,7 @@ window.MODELS = [
   },
   {
     "title": "Aerial Surveillance Drone",
-    "url": "https://www.turbosquid.com/3d-models/3d-aerial-surveillance-drone-2341184?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-aerial-surveillance-drone-2341184?referral=3d_molier-international",
     "image": "assets/images/large/102-aerial-surveillance-drone-3d-model.html.webp",
     "description": "High-tech aerial surveillance drone model for inspection, security monitoring, reconnaissance, industrial mapping, public safety and real-time visualization scenes.",
     "categories": [
@@ -1885,7 +1885,7 @@ window.MODELS = [
   },
   {
     "title": "Combat Propeller Drone UAV Rigged for Cinema 4D",
-    "url": "https://www.turbosquid.com/3d-models/3d-combat-propeller-drone-uav-rigged-for-cinema-4d-2311885?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-combat-propeller-drone-uav-rigged-for-cinema-4d-2311885?referral=3d_molier-international",
     "image": "assets/images/large/103-combat-propeller-drone-uav-rigged-for-cinema-4d-3d-model.html.webp",
     "description": "Rigged combat propeller UAV for tactical simulation, defense visualization, surveillance concepts, drone animation and cinematic technology presentations.",
     "categories": [
@@ -1905,7 +1905,7 @@ window.MODELS = [
   },
   {
     "title": "Fixed Wing VTOL Surveillance Drone Gray",
-    "url": "https://www.turbosquid.com/3d-models/3d-model-fixed-wing-vtol-surveillance-drone-gray-2473754?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-model-fixed-wing-vtol-surveillance-drone-gray-2473754?referral=3d_molier-international",
     "image": "assets/images/large/104-fixed-wing-vtol-surveillance-drone-gray-3d-model.html.webp",
     "description": "Fixed-wing VTOL surveillance drone for reconnaissance scenes, border monitoring concepts, aerospace explainers, simulation and UAV technology visualization.",
     "categories": [
@@ -1925,7 +1925,7 @@ window.MODELS = [
   },
   {
     "title": "Military Surveillance UAV System Black",
-    "url": "https://www.turbosquid.com/3d-models/3d-military-surveillance-uav-system-black-model-2467664?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-military-surveillance-uav-system-black-model-2467664?referral=3d_molier-international",
     "image": "assets/images/large/105-military-surveillance-uav-system-black-3d-model.html.webp",
     "description": "Compact black military surveillance UAV with quad rotors for reconnaissance, mission planning, border security, training and technology visualization projects.",
     "categories": [
@@ -1945,7 +1945,7 @@ window.MODELS = [
   },
   {
     "title": "Twin-Boom Unmanned Combat Aerial Vehicle Rigged",
-    "url": "https://www.turbosquid.com/3d-models/3d-twinboom-unmanned-combat-aerial-vehicle-rigged-2055963?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-twinboom-unmanned-combat-aerial-vehicle-rigged-2055963?referral=3d_molier-international",
     "image": "assets/images/large/106-twin-boom-unmanned-combat-aerial-vehicle-rigged-3d-model.html.webp",
     "description": "Twin-boom unmanned combat aerial vehicle for military UAV scenes, long-endurance drone concepts, tactical animation and defense visualization.",
     "categories": [
@@ -1965,7 +1965,7 @@ window.MODELS = [
   },
   {
     "title": "Desert Military Surveillance Drone Rigged",
-    "url": "https://www.turbosquid.com/3d-models/3d-desert-military-surveillance-drone-rigged-2389468?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/3d-desert-military-surveillance-drone-rigged-2389468?referral=3d_molier-international",
     "image": "assets/images/large/107-desert-military-surveillance-drone-rigged-3d-model.html.webp",
     "description": "Rigged desert surveillance drone for defense, reconnaissance, security, environmental monitoring and drone mission animation scenes.",
     "categories": [
@@ -1985,7 +1985,7 @@ window.MODELS = [
   },
   {
     "title": "Drone Quadcopter UAV with Camera",
-    "url": "https://www.turbosquid.com/3d-models/drone-quadcopter-uav-camera-3d-model-1609934?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/drone-quadcopter-uav-camera-3d-model-1609934?referral=3d_molier-international",
     "image": "assets/images/large/108-drone-quadcopter-uav-with-camera-3d-model.html.webp",
     "description": "Camera-equipped quadcopter UAV for aerial photography concepts, surveillance visualization, product animation and commercial drone scenes.",
     "categories": [
@@ -2004,7 +2004,7 @@ window.MODELS = [
   },
   {
     "title": "Drone Quadcopter UAV with Camera Rigged",
-    "url": "https://www.turbosquid.com/3d-models/drone-quadcopter-uav-camera-3d-model-1609936?referral=3d_molier-studio",
+    "url": "https://www.turbosquid.com/3d-models/drone-quadcopter-uav-camera-3d-model-1609936?referral=3d_molier-international",
     "image": "assets/images/large/109-drone-quadcopter-uav-with-camera-rigged-3d-model.html.webp",
     "description": "Rigged camera quadcopter UAV for animated drone shots, inspection visuals, technology demos, product renders and surveillance scenes.",
     "categories": [
