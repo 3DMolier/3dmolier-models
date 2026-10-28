@@ -22,7 +22,7 @@ One of the world's largest single-studio 3D catalogs (86,000+ models on TurboSqu
 
 ## Important facts
 - 3D Molier sells models through TurboSquid.
-- Custom 3D modeling requests: dddmolier@gmail.com
+- Custom 3D modeling requests: 3dmolier@3dmolier.com
 - Models may include PBR materials, UV mapping, grouped objects and real-world scale depending on the product page.
 - The website is a curated SEO catalog and referral landing site for 3D Molier assets.
 - Product pages include model descriptions, use cases, compatibility notes, common features and links to TurboSquid purchase pages.
